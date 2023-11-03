@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Recipes</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="recipes.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>Recipes</h1>
+		</header>
+		<main>
+		<div id="recipes">
+			<h2>Creamy Elote Dip</h2>
+			by Ava Hockey
+			<h3>Ingredients</h3>
+			<ul>
+				<li>1 tablespoon olive oil</li>
+				<li>2 cloves minced garlic</li>
+				<li>4 cups corn kernels, from about 5-6 ears of corn or frozen corn</li>
+				<li>4 scallions, thinly sliced</li>
+				<li>1 teaspoon salt & ground black pepper
+				<li>1/3 cup mayo</li>
+				<li>1/3 cup plain Greek yogurt</li>
+				<li>1 jalapeno pepper, finely chopped</li>
+				<li>1 teaspoon lime zest</li>
+				<li>1-2 tablespoons lime juice</li>
+				<li>1/2 teaspoon chili powder</li>
+				<li>1/2 cup crumbled queso fresco </li>
+				<li>1/2 cup fresh cilantro</li>
+			</ul>
+			<h3>Directions</h3>
+			Heat the oil in a large skillet oven medium-high heat. Add the garlic and stir until it’s light golden brown, about 30 seconds.
+			Add the corn, scallions, salt, and pepper to the pan, and cook, stirring occasionally, until the corn is tender, 3 to 4 minutes.
+			Once cooked, add the corn mixture to a large bowl and set aside to cool for a few minutes. (You don’t want the corn piping hot when you add the yogurt and cheese or it will get melted.)
+			<p>Stir in the mayo, yogurt, jalapeno, lime zest, lime juice, chili powder, cheese, cilantro, and a few shakes of hot sauce (if using).
+				Taste the dip and add more salt, pepper, and/orlime juice as needed.
+				Spoon the dip into a serving bowl and garnish the top with a sprinkle of chili powder and some fresh cilantro leaves or sliced scallion greens. You can serve the dip right away, but it tastes best having been chilled in the fridge for at least 30 minutes. Serve with chips and/or fresh veggies.
+				If you have leftovers, store in an air-tight container in your fridge for up to 2 days.</p>
+		</div>
+		</main>
+	</div>
+</body>
+</html>
